@@ -1,6 +1,6 @@
 # Python para SO - Condicional e Repetição
 
-Atividade prática da disciplina de Sistemas Operacionais - FATEC Zona Leste.
+Atividade prática da disciplina de Sistemas Operacionais
 
 ## Parte 1 - Exercícios em Python
 
